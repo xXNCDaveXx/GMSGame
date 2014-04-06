@@ -25,7 +25,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_destroy()
+            <string>cum = choose(true,false)
+
+if cum = true
+instance_destroy()
 </string>
           </argument>
         </arguments>
